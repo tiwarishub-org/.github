@@ -1,6 +1,5 @@
 {
     "name": "temp",
     "description": "Bulid the temp project (public repo).",
-    "iconName": "example-icon",
     "categories": ["Java"],
 }
